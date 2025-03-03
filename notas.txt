@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mudo Moto Peças</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            color: #333;
+        }
+        .buttons a {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            text-decoration: none;
+            background: #007bff;
+            color: white;
+            border-radius: 5px;
+        }
+        .buttons a:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo à Mudo Moto Peças</h1>
+        <p>Sua melhor opção para peças e acessórios de motos!</p>
+        <div class="buttons">
+            <a href="https://www.instagram.com/seu_instagram" target="_blank">Instagram</a>
+            <a href="https://wa.me/seu_numero" target="_blank">Fale no WhatsApp</a>
+        </div>
+    </div>
+</body>
+</html>
